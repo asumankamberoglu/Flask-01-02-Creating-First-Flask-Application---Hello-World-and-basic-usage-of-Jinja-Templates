@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8193937&assignment_repo_type=AssignmentRepo)
 # Hands-on Flask-01-02 : Creating First Flask Application - Hello World and basic usage of Jinja Templates
 
 Purpose of the this hands-on training is to give the students quick introductory knowledge of how to create a Flask web application on local.
